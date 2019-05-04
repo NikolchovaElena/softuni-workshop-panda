@@ -3,7 +3,7 @@ Web application with: Java EE: JSF + JPA<br />
 Deployed on TomEE.
 
 ## Key Functionalities
-MeTube is a platform for package deliveries.<br />
+Panda is a platform for package deliveries.<br />
 
 ## Built With
 
